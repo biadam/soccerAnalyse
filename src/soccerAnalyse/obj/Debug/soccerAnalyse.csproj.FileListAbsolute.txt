@@ -1,0 +1,8 @@
+\\Mac\Home\privat\goal\soccerAnalyse\soccerAnalyse\bin\Debug\soccerAnalyse.exe.config
+\\Mac\Home\privat\goal\soccerAnalyse\soccerAnalyse\obj\Debug\soccerAnalyse.Properties.Resources.resources
+\\Mac\Home\privat\goal\soccerAnalyse\soccerAnalyse\obj\Debug\soccerAnalyse.ViewSoccerResult.resources
+\\Mac\Home\privat\goal\soccerAnalyse\soccerAnalyse\obj\Debug\soccerAnalyse.csproj.GenerateResource.Cache
+\\Mac\Home\privat\goal\soccerAnalyse\soccerAnalyse\bin\Debug\soccerAnalyse.exe
+\\Mac\Home\privat\goal\soccerAnalyse\soccerAnalyse\bin\Debug\soccerAnalyse.pdb
+\\Mac\Home\privat\goal\soccerAnalyse\soccerAnalyse\obj\Debug\soccerAnalyse.exe
+\\Mac\Home\privat\goal\soccerAnalyse\soccerAnalyse\obj\Debug\soccerAnalyse.pdb

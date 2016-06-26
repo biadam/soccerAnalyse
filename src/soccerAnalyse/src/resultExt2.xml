@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<SoccerResultsTable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Teams>
+    <Team>
+      <Position>1</Position>
+      <TeamName>GERMANY</TeamName>
+      <Points>4</Points>
+      <GoalRate>7</GoalRate>
+    </Team>
+    <Team>
+      <Position>2</Position>
+      <TeamName>PORTUGAL</TeamName>
+      <Points>4</Points>
+      <GoalRate>2</GoalRate>
+    </Team>
+    <Team>
+      <Position>3</Position>
+      <TeamName>SPAIN</TeamName>
+      <Points>3</Points>
+      <GoalRate>1</GoalRate>
+    </Team>
+    <Team>
+      <Position>4</Position>
+      <TeamName>HOLLAND</TeamName>
+      <Points>1</Points>
+      <GoalRate>0</GoalRate>
+    </Team>
+  </Teams>
+</SoccerResultsTable>
